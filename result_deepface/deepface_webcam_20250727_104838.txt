@@ -1,0 +1,3 @@
+Thông tin nhận diện từ webcam:
+
+#1: Gender: Man | Age: 29 | Emotion: neutral

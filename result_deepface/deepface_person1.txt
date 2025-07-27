@@ -1,0 +1,3 @@
+Thông tin nhận diện từ ảnh: D:\nhap_mon_xu_li_anh_so\Face_Recognition_Comparison\assets\images\person1.jpg
+
+#1: Gender: Woman | Age: 30 | Emotion: neutral

@@ -1,0 +1,18 @@
+Thông tin nhận diện từ ảnh: D:\nhap_mon_xu_li_anh_so\Face_Recognition_Comparison\assets\images\img4.jpg
+
+#1: Gender: Man | Age: 32 | Emotion: neutral
+#2: Gender: Woman | Age: 30 | Emotion: happy
+#3: Gender: Man | Age: 30 | Emotion: happy
+#4: Gender: Man | Age: 29 | Emotion: happy
+#5: Gender: Woman | Age: 28 | Emotion: happy
+#6: Gender: Man | Age: 27 | Emotion: happy
+#7: Gender: Woman | Age: 37 | Emotion: happy
+#8: Gender: Man | Age: 24 | Emotion: neutral
+#9: Gender: Woman | Age: 33 | Emotion: neutral
+#10: Gender: Man | Age: 30 | Emotion: neutral
+#11: Gender: Woman | Age: 37 | Emotion: happy
+#12: Gender: Man | Age: 32 | Emotion: happy
+#13: Gender: Woman | Age: 23 | Emotion: neutral
+#14: Gender: Man | Age: 33 | Emotion: happy
+#15: Gender: Woman | Age: 26 | Emotion: happy
+#16: Gender: Man | Age: 39 | Emotion: happy
